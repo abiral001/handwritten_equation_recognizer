@@ -16,13 +16,13 @@ ________________________________________________________________________________
 3.                  Prepare for Proposal Defence
                     (N+E+A)                                         29th May 2019             31st May 2019
                     
-4.1                 Implement Numerical Method for calculations
+4.                  Implement Numerical Method for calculations
                     (N+E)                                           1st June 2019             11th June 2019
                     
-4.2                 Train Character Recognizer
+5.                  Train Character Recognizer
                     (A)                                             1st June 2019             11th June 2019
                     
-5.                  Implement Everything in one Program           
+6.                  Implement Everything in one Program           
                     (N+E+A)                                         12th June 2019            16th June 2019
                     
 <Add as Required>
