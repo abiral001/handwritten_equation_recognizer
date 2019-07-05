@@ -1,4 +1,3 @@
-# hea_nea
+# her_nea
 # N, E, A
-# Private repo created for Handwritten Equation Analyzer 
-
+# Private repo created for Handwritten Equation Recognizer 
