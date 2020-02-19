@@ -15,7 +15,7 @@ This repository consists of Recognition of handwritten equations into their indi
 ## Instructions for running
 
 Handwritten Equation Recognizer was made written in Jupyter Notebook using Python 3.6. Pytorch was used for building the cnn model and to run the final software in your PC you can run the final_implementation.ipynb inside the running build folder.
-To train the model from scratch keep each characters into their own folder and keep all the folder in a folder named "extracted_images" inside the training folder and run the her_training.ipynb
+To train the model from scratch keep each characters into their own folder and keep all the folder in a folder named "extracted_images" inside the training folder and run the data_management.ipynb and then her_training.ipynb
 The model saved will be named her_model
 
 ## Contents
