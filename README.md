@@ -23,9 +23,9 @@ The model saved will be named her_model
 1. Data Collection and Processing
 2. Model Training and Loss Calculations
 3. Final Implementation 
-4. Description of Working of the system
-  a. Libraries used
-  b. Model Description
+4. Description of Working of the system\
+  a. Libraries used\
+  b. Model Description\
   c. Data Preprocessing, Training and Implementation Phase
 5. Results
 6. Limitations
