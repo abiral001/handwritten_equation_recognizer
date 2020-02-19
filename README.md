@@ -144,10 +144,10 @@ Finally, the individual segments are sent to the model for prediction and the ob
 
 ### 6. Limitations
 
-	As we see in the outputs of HER, the segmentation process segments the “=” sign into two separate “-“ which is the limitation of OpenCV. This could have been solved using area constraint but due to time limitations and lack of adequate programmers this couldn’t be implemented in the final project. 
-	Again, the output doesn’t match the input image of the model. Out of the 7 characters in our image, only 4 are identified correctly. The main reason for this result is inconsistent data in our dataset. There are some characters with large number of images while some with only 10. This has caused the model to lean towards predicting the data it encountered more during training. This is the reason for predicting the part of “=” as A and k rather than two “- “s.
-	Finally, the other reason which predicted “2” as “z” and “+” as “4” is due to machine error which can be solved by using effective preprocessing which couldn’t be implemented due to time constraints. 
- 	Additionally, the other project limitations of this projects are:
+As we see in the outputs of HER, the segmentation process segments the “=” sign into two separate “-“ which is the limitation of OpenCV. This could have been solved using area constraint but due to time limitations and lack of adequate programmers this couldn’t be implemented in the final project. 
+Again, the output doesn’t match the input image of the model. Out of the 7 characters in our image, only 4 are identified correctly. The main reason for this result is inconsistent data in our dataset. There are some characters with large number of images while some with only 10. This has caused the model to lean towards predicting the data it encountered more during training. This is the reason for predicting the part of “=” as A and k rather than two “- “s.
+Finally, the other reason which predicted “2” as “z” and “+” as “4” is due to machine error which can be solved by using effective preprocessing which couldn’t be implemented due to time constraints. 
+Additionally, the other project limitations of this projects are:
   
 1.	The subscripts and superscripts cannot be currently be recognized.
 2.	Not all mathematical equations characters can be recognized.
