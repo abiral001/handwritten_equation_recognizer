@@ -1,5 +1,7 @@
 # Handwritten Equation Recognizer using CNN
 
+Authored by: Abiral Pokharel, Eelisha Pathak, Nidwija Bhatta
+
 
 This repository consists of Recognition of handwritten equations into their individual characters that is acheived using Convolutional Neural Network (CNN)
 
